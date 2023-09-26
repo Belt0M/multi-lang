@@ -22,6 +22,7 @@ i18next
 					brown: 'Brown',
 					english: 'English',
 					polish: 'Polish',
+					select: 'Select...',
 				},
 			},
 			pl: {
@@ -35,6 +36,7 @@ i18next
 					brown: 'Brązowy',
 					english: 'Angielski',
 					polish: 'Polski',
+					select: 'Wybierz...',
 				},
 			},
 		},
